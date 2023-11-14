@@ -1,5 +1,5 @@
 # 💫 About Me:
-# About Me👋<h4> Hello there! I'm Muhammad Abdullah Ghazi, a passionate data science student with a solid foundation in software engineering. With 1.5 years of experience in the software industry, I've honed my skills in designing and implementing robust solutions. Now, I'm diving into the exciting world of data science, combining my programming prowess with a love for extracting insights from data.</h4>
+<h4> Hello there! I'm Muhammad Abdullah Ghazi, a passionate data science student with a solid foundation in software engineering. With 1.5 years of experience in the software industry, I've honed my skills in designing and implementing robust solutions. Now, I'm diving into the exciting world of data science, combining my programming prowess with a love for extracting insights from data.</h4>
 
 
 # 💻 Tech Stack:
