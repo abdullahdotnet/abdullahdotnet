@@ -27,6 +27,9 @@ I'm Muhammad Abdullah Ghazi, a data science student at Punjab University College
 
 Feel free to reach out to me if you're interested in collaborating.
 
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahdotnet&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdotnet&layout=compact&theme=radical&custom_title=Most%20Used%20Languages%20In%20Repos&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdullahdotnet&theme=dark)](https://git.io/streak-stats)
 
