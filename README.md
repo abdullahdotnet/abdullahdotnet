@@ -30,4 +30,3 @@ Feel free to reach out to me if you're interested in collaborating.
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdullahdotnet&theme=dark)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/abdullahdotnet/abdullahdotnet/blob/output/github-contribution-grid-snake.svg)
