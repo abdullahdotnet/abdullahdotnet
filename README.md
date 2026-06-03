@@ -1,24 +1,11 @@
 
 # Hey there! 👋
 
-I'm Muhammad Abdullah Ghazi, a data science student at Punjab University College of Information Technology (PUCIT), currently in my 5th semester. I have a passion for problem-solving, hard work, and honing my skills in the world of data science. I have worked as a Software Engineer for more than 1.5 years in a US Based company and currently I am working as an online Python and Database instructor at [Preply](https://preply.com/en/tutor/4503925).
-
-## About Me
-
-- 🌆 Based in: Lahore, Pakistan
-- 📚 Studying: BS Data Science
-- 🏢 University: Punjab University College of Information Technology
-- 📅 Year: 3rd
-- 📊 Interested in: Data Science, Machine Learning, Data Engineering,Software Engineering
-
-## Skills
-
-- Programming Languages: Python, JavaScript, C#
-- Web Development: HTML, CSS, JavaScript,.Net ,React, Django
-- Database Systems: MySQL,Sql Server,Mongo DB
-- Version Control: Git
-- Problem-Solving: [LeetCode](https://leetcode.com/abdullahdotnet20/)
-                   [Codeforces](https://codeforces.com/profile/abdullahdotnet)
+Data Engineer with 3 years in production — ETL pipelines, large-scale migrations, and SQL performance tuning with real, measurable impact (92% faster queries, 80% faster dashboards).
+At Cedar Financial, I design and build scalable data systems end-to-end — from ingestion through transformation to reporting. I own replication architecture, lead data migrations for acquired companies, and optimize analytical workloads for speed and reliability.
+Currently expanding into Azure and cloud data engineering.
+Multiple national AI hackathon winner. BSc Data Science, University of the Punjab.
+Open to remote Data Engineering opportunities.
 
 
 ## Connect with Me
